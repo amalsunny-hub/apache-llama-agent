@@ -55,7 +55,7 @@ def is_done(reply: str) -> bool:
 
 def print_header():
     print("\n" + "═" * 60)
-    print("   🤖  Apache Llama Agent  —  HazerCloud")
+    print("   🤖  Apache Llama Agent")
     print("   Powered by Ollama + Llama 3.2 3B on AlmaLinux 9")
     print("═" * 60)
     print(f"   Session started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
