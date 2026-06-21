@@ -435,7 +435,7 @@ Your prompt will change to:
 Now clone the project:
 
 ```bash
-git clone https://github.com/hazercloud/apache-llama-agent.git
+git clone https://github.com/amalsunny-hub/apache-llama-agent.git
 cd apache-llama-agent
 ```
 
