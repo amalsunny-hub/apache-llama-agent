@@ -633,7 +633,7 @@ You will see something like:
 
 ```
 ════════════════════════════════════════════════════════════
-   🤖  Apache Llama Agent  —  HazerCloud
+   🤖  Apache Llama Agent
 ════════════════════════════════════════════════════════════
   Checking Ollama connection... ✅ Connected
   Goal: Monitor Apache server health...
@@ -717,7 +717,7 @@ You just read /var/log/llama-agent.log whenever you want a report
 
 ```
 ════════════════════════════════════════════════════════════
-   🤖  Apache Llama Agent  —  HazerCloud
+   🤖  Apache Llama Agent
    Powered by Ollama + Llama 3.2 3B on AlmaLinux 9
 ════════════════════════════════════════════════════════════
    Session started: 2025-06-20 10:32:15
@@ -890,4 +890,4 @@ MIT License — free to use, modify, and share.
 
 ---
 
-*Built with ❤️ by HazerCloud*
+*Built with ❤️ by Amal Sunny*
